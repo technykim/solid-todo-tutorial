@@ -80,6 +80,7 @@ function App() {
             <datalist id="providers">
               <option value="https://broker.pod.inrupt.com/" />
               <option value="https://inrupt.net/" />
+              <option value="https://solidcommunity.net/" />                
             </datalist>
           </span>
           <LoginButton
